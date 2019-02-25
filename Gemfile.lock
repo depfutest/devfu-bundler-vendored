@@ -1,10 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    execjs (2.6.0)
-    json (2.1.0)
-    rake (11.3.0)
-    uglifier (3.2.0)
+    execjs (2.7.0)
+    json (2.2.0)
+    rake (12.3.2)
+    uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
 
 PLATFORMS
